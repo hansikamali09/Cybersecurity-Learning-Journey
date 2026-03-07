@@ -1,6 +1,6 @@
 # Cybersecurity Learning Journey
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hansikamali09.png)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hansikamali09.png)](https://tryhackme.com/p/hansikamali09)
 
 This repository documents my hands-on cybersecurity learning through platforms like **TryHackMe**.
 
